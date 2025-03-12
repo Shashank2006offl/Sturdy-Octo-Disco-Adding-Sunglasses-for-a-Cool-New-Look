@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac8b0bd1-7c2a-4ee1-85d2-90a61e4b0145)# Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
+# Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
